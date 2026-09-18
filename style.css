@@ -180,6 +180,23 @@ footer {
     margin-top: 30px;
 }
 
+.about-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.about-text {
+    width: 400px;
+    text-align: left;
+    line-height: 1.8;
+}
+
+.about-content img {
+    border-radius: 15px;
+}
+
 /* Tampilan HP */
 
 @media (max-width: 600px) {
