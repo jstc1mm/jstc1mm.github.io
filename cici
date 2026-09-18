@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+    <head>
+        <title>felixuu</title>
+        <link rel="stylesheet"  href="style.css">
+    </head>
+     <body>
+        
+        <header>
+            <p class="headerr">cici</p>
+        </header>
+        <main align="center">
+             <h1>who i am?</h1>
+             <p>here i am</p>
+             <p>hello my name is chiquita and im from 11.11 and tl coding. and here some fact about me</p>
+
+        <div class="about-content">
+
+             <div class="about-text">
+             <h2>Facts About Me</h2>
+             <p>
+🎧 I enjoy listening to music.
+<br>
+🎬 I like watching movies and series.
+<br>
+🍜 I like dimsum  (yummy).
+<br>
+💻 I like to do nothing activity.
+<br>
+🌱 I like learning new things.
+<br>
+📚 I enjoy exploring new topics.
+<br>
+🐱 I like cat (but also scared about it).
+<br>
+🌙 I enjoy spending time by myself.
+<br>
+☕ I love relaxing in my free time.
+<br>
+✨ I’m always curious about new things.</P>
+     </div>
+
+    
+        </main>
+        </body>
+        </html>
